@@ -171,7 +171,7 @@ When `verbose` mode is enabled, the tool:
 
 ## 📖 References
 
-- T. H. Cormen et al., Introduction to Algorithms, MIT Press
+- T. Roughgarden, Algorithms Illuminated
 - J. Kleinberg & É. Tardos, Algorithm Design
 
 ---
